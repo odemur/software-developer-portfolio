@@ -5,7 +5,7 @@ Software developer portfolio created with Next.js, containing Resume, What I do,
 ## Sections
 
 ✔️ Summary\
-✔️ About me\
+✔️ About\
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
