@@ -2,6 +2,10 @@
 
 Software developer portfolio created with Next.js, containing Resume, What I do, Skills, Professional Experience, Projects and Social Networks.
 
+## Live Preview 
+
+[https://software-developer-portfolio-v1.vercel.app](https://software-developer-portfolio-v1.vercel.app)
+
 ## Sections
 
 ✔️ Summary\
